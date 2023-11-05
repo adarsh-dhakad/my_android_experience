@@ -4,4 +4,4 @@ my experience
 # SHA 1 
 C:\Program Files\Android\Android Studio\jbr\bin>keytool -list -v -keystore C:\Users\dhaka\.android\debug.keystore -alias androiddebugkey -storepass android -keypass android
 
-# stateFlow vs ShareFlow
+# stateFlow vs SharedFlow
