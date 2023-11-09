@@ -16,6 +16,10 @@ C:\Program Files\Android\Android Studio\jbr\bin>keytool -list -v -keystore C:\Us
 
 # Kotlin Higher-Order Functions
 
-# what is the use of withcontext in kotlin
+# What is the use of withcontext in kotlin
 
 # observable vs livedata
+
+# const vs val
+
+# Sealed Class vs Enum in Kotlin
