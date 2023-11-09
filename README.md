@@ -8,6 +8,6 @@ C:\Program Files\Android\Android Studio\jbr\bin>keytool -list -v -keystore C:\Us
 
 # Serialization vs parcelization
 
-#viewmodel lifecycle
+# viewmodel lifecycle
 
 # IntentService and a Service
