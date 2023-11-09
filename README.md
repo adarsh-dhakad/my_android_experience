@@ -11,3 +11,7 @@ C:\Program Files\Android\Android Studio\jbr\bin>keytool -list -v -keystore C:\Us
 # viewmodel lifecycle
 
 # IntentService and a Service
+
+# Kotlin extension function
+
+# Kotlin Higher-Order Functions
