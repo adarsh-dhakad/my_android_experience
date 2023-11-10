@@ -25,3 +25,5 @@ C:\Program Files\Android\Android Studio\jbr\bin>keytool -list -v -keystore C:\Us
 # Sealed Class vs Enum in Kotlin
 
 # How to scale different Views to all screen sizes in Android 
+
+# let vs run in kotlin
