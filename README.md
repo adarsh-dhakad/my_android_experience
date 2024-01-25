@@ -30,4 +30,4 @@ C:\Program Files\Android\Android Studio\jbr\bin>keytool -list -v -keystore C:\Us
 
 #  Type of Threads
 
-# how to store data safely in android
+# how to user store data safely in Android
