@@ -27,3 +27,7 @@ C:\Program Files\Android\Android Studio\jbr\bin>keytool -list -v -keystore C:\Us
 # How to scale different Views to all screen sizes in Android 
 
 # let vs run in kotlin
+
+#  Type of Threads
+
+# how to store data safely in android
