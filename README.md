@@ -31,3 +31,5 @@ C:\Program Files\Android\Android Studio\jbr\bin>keytool -list -v -keystore C:\Us
 #  Type of Threads
 
 # how to store user store data safely in Android
+
+# can we store data in content provider
