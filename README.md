@@ -41,3 +41,5 @@ C:\Program Files\Android\Android Studio\jbr\bin>keytool -list -v -keystore C:\Us
 # How I will stop service from the brocard receiver 
  
 # how we will notify one service from another service
+
+# how many dispatchers are there ( 4 )
