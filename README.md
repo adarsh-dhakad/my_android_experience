@@ -37,3 +37,7 @@ C:\Program Files\Android\Android Studio\jbr\bin>keytool -list -v -keystore C:\Us
 # lifcycle scope
 
 # viewmodel life cycle
+
+# How I will stop service from the brocard receiver 
+ 
+# how we will notify one service from another service
