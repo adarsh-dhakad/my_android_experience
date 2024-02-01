@@ -45,3 +45,5 @@ C:\Program Files\Android\Android Studio\jbr\bin>keytool -list -v -keystore C:\Us
 # how many dispatchers are there ( 4 )
 
 # which dispatchers retrofit is using ans suspended function is using
+
+# There is a way safe  to pass data inside constructor 
