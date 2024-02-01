@@ -49,3 +49,7 @@ C:\Program Files\Android\Android Studio\jbr\bin>keytool -list -v -keystore C:\Us
 # There is a way safe  to pass data inside constructor 
 
 # how to use ADB
+
+# do I need read-write permission for Image video
+
+$ supervisor job in kotlin
