@@ -47,3 +47,5 @@ C:\Program Files\Android\Android Studio\jbr\bin>keytool -list -v -keystore C:\Us
 # which dispatchers retrofit is using ans suspended function is using
 
 # There is a way safe  to pass data inside constructor 
+
+# how to use ADB
