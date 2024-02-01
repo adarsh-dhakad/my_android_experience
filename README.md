@@ -53,3 +53,5 @@ C:\Program Files\Android\Android Studio\jbr\bin>keytool -list -v -keystore C:\Us
 # do I need read-write permission for Image video
 
 $ supervisor job in kotlin
+
+# how to add callback to sql without live data
