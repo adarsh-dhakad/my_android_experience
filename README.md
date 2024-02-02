@@ -55,3 +55,5 @@ C:\Program Files\Android\Android Studio\jbr\bin>keytool -list -v -keystore C:\Us
 $ supervisor job in kotlin
 
 # how to add callback to sql without live data
+
+# Cold Flow vs Hot Flow
