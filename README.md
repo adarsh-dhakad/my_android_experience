@@ -52,8 +52,12 @@ C:\Program Files\Android\Android Studio\jbr\bin>keytool -list -v -keystore C:\Us
 
 # do I need read-write permission for Image video
 
-$ supervisor job in kotlin
+# supervisor job in kotlin
 
 # how to add callback to sql without live data
 
 # Cold Flow vs Hot Flow
+
+# how to make code thread safe in Kotlin
+
+# Why are coroutines lightweight internally they are using thread 
