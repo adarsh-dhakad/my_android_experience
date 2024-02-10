@@ -61,3 +61,5 @@ C:\Program Files\Android\Android Studio\jbr\bin>keytool -list -v -keystore C:\Us
 # how to make code thread safe in Kotlin
 
 # Why are coroutines lightweight internally they are using thread 
+
+# MVI MVVM MVC 
