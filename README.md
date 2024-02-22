@@ -67,3 +67,9 @@ keytool -list -v -keystore ~/.android/debug.keystore -alias androiddebugkey -sto
 # MVI MVVM MVC 
 
 # Mutex For Kotlin Coroutines
+
+# Access modifiers in Kotlin
+
+# drag and drop Recycler View
+
+# Multi component
