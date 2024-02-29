@@ -74,4 +74,18 @@ keytool -list -v -keystore ~/.android/debug.keystore -alias androiddebugkey -sto
 
 # Multi component
 
-# Handler 
+# Handler  out put of this code
+
+`kotlin
+
+        Handler(Looper.getMainLooper()).postDelayed(
+            {
+                Toast.makeText(this, "tee0", Toast.LENGTH_SHORT)
+            },
+            2000
+        )
+
+        while(true){
+            Log.d("devkey" , "a")
+        }
+`kotlin
