@@ -73,3 +73,5 @@ keytool -list -v -keystore ~/.android/debug.keystore -alias androiddebugkey -sto
 # drag and drop Recycler View
 
 # Multi component
+
+# Handler 
