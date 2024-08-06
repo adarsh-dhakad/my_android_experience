@@ -104,5 +104,7 @@ important commands for android
        ./adb shell monkey -p androidx.media3.demo -v 10000  
        
        ./adb shell monkey -p androidx.media3.demo --throttle 500 -v 10000
+
+       ./adb shell am send-trim-memory androidx.media3.demo RUNNING_CRITICAL   // LOW MEMORY 
 `
 
