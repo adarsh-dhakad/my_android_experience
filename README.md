@@ -97,13 +97,13 @@ Payload in android [Medium article](https://medium.com/@domen.lanisnik/efficient
 
 important commands for android 
 
-`shell 
+`java 
    ./adb shell am crash androidx.media3.demo 
-   `
-`
+  `java
+`java
 ./adb shell monkey -p androidx.media3.demo -v 10000
-`
-`
+`java
+`java
 ./adb shell monkey -p androidx.media3.demo --throttle 500 -v 10000
-`
+`java
 
