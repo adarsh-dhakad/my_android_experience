@@ -95,3 +95,9 @@ keytool -list -v -keystore ~/.android/debug.keystore -alias androiddebugkey -sto
 
 Payload in android [Medium article](https://medium.com/@domen.lanisnik/efficiently-updating-recyclerview-items-using-payloads-1305f65f3068#:~:text=The%20payloads%20parameter%20is%20a,Updated%20onBindViewHolder%20function%20using%20payloads.)
 
+important commands for android 
+
+./adb shell am crash androidx.media3.demo 
+./adb shell monkey -p androidx.media3.demo -v 10000
+./adb shell monkey -p androidx.media3.demo --throttle 500 -v 10000
+
